@@ -11,3 +11,21 @@ Custom Jokers (female versions of existing ones)
 Compatibility with any smod version of the game (above 323)
 
 Challenges are planned, but not implemented yet.
+---
+
+v1.1 Seconf Release
+Before this mod, The Baron was the only Joker with this kind of synergy. Now the game includes new female Jokers that act as counterparts or complements to existing male ones.
+
+added baroness – queen version of the baron, gives x3.5 mult per scoring queen
+
+added duela – gives +16 mult when playing your most-used hand
+
+added tranquil duela – 25% chance to create a spectral card when skipping a booster
+
+added athelete – destroying red seal cards upgrades your most-used hand 4 times
+
+added showomen – if you have 5 or more Jokers, gain $10 after defeating a Boss Blind
+
+
+These jokers expand the roster with powerful options, new strategies and balanced Jokers
+
